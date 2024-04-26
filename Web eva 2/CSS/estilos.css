@@ -1,0 +1,46 @@
+body {
+    background-image: url("../img/fondo.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+h1 {
+    background-color: #3fbb8b;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Estilo a nivel de identificador */
+
+#cnt_formulario {
+    background-color: #437494;
+    border-radius: 10px;
+    color:#f7f7f7;
+}
+
+#Info {
+    background-color: #437494;
+    color: #f7f7f7;
+    font-size: 30px;
+    border-radius: 5px;
+}
+/* Estilo a nivel clase */
+.carousel-item img{
+    width: 100%;
+    height: 50%;
+    margin: auto;
+}
+
+/*Color barra de navegacion */
+.container-fluid {
+    background-color: #3fbb8b;
+}
+
+.card-body {
+    background-color: #437494;
+}
